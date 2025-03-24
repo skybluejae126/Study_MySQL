@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8bb3f21-233d-4b56-bf36-ee90629102f9)# 📖 Study_MySQL 📖
+# 📖 Study_MySQL 📖
 
 ### ✎ Study ✎
   - [`_01_Study_SELECT`]
